@@ -28,6 +28,6 @@ git clone https://github.com/candradwicahyo/background-color-slider.git
 
 ## preview dan demo 
 
-![preview](https://github.com/candradwicahyo/repo/background-color-slider/master/image.jpg)
+![preview](https://github.com/candradwicahyo/background-color-slider/blob/master/image.jpg)
 
-[tekan link ini](https://candradwicahyo.github.io/background-color-slider)
+[tekan link ini](https://candradwicahyo.github.io/background-color-slider) untuk mencoba demo
